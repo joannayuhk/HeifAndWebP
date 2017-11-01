@@ -1,0 +1,30 @@
+PODS:
+  - SimpleImageViewer (1.1)
+  - YYImage (1.0.1)
+
+DEPENDENCIES:
+  - SimpleImageViewer (from `https://github.com/aFrogleap/SimpleImageViewer.git`)
+  - YYImage (from `git@git.yqb.pub:PAFPods/YYImage.git`, commit `cdc12eabfa5a66c99d05acfe2dcff2657b9bd150`)
+
+EXTERNAL SOURCES:
+  SimpleImageViewer:
+    :git: https://github.com/aFrogleap/SimpleImageViewer.git
+  YYImage:
+    :commit: cdc12eabfa5a66c99d05acfe2dcff2657b9bd150
+    :git: git@git.yqb.pub:PAFPods/YYImage.git
+
+CHECKOUT OPTIONS:
+  SimpleImageViewer:
+    :commit: 8e94faa9ad99f8cdf6e0f8fd7aad7a7a26e7e71a
+    :git: https://github.com/aFrogleap/SimpleImageViewer.git
+  YYImage:
+    :commit: cdc12eabfa5a66c99d05acfe2dcff2657b9bd150
+    :git: git@git.yqb.pub:PAFPods/YYImage.git
+
+SPEC CHECKSUMS:
+  SimpleImageViewer: c717de9db520c58085bb2e196d154296e7c955d5
+  YYImage: 6d1508088165d5f7111b899d2454867410575f2a
+
+PODFILE CHECKSUM: 7a981923c8e4e61d2cd81087a621194a5d503cbf
+
+COCOAPODS: 1.2.1
